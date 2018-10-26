@@ -15,7 +15,7 @@ def create_app():
 
     @app.route('/great')
     def great():
-        return '...to great'
+        return '...to gr8'
 
     return app
 
